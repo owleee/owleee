@@ -1,4 +1,3 @@
-- 🔭 I’m currently working on owleee.github.io
-- 🌱 I’m currently learning HTML, CSS & JS
-- 💬 Ask me about geography or linguistics trivia
+amateur game & mcpack dev, cs undergrad
 
+EN / ES

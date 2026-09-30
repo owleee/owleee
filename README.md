@@ -5,15 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/discord-%40owleee-blue?logo=discord&logoColor=white&color=5865F2">
-  </a>
-  <a href="https://www.youtube.com/@owleee">
-    <img src="https://img.shields.io/badge/youtube-%40owleee-red?logo=youtube&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/owleee333">
-    <img src="https://img.shields.io/badge/instagram-%40owleee333-orange?logo=instagram&logoColor=white">
-  </a>
+  <a href="https://discord.com/"><img src="https://img.shields.io/badge/discord-%40owleee-blue?logo=discord&logoColor=white&color=5865F2"></a>
+  <a href="https://www.youtube.com/@owleee"><img src="https://img.shields.io/badge/youtube-%40owleee-red?logo=youtube&logoColor=white"></a>
+  <a href="https://www.instagram.com/owleee333"><img src="https://img.shields.io/badge/instagram-%40owleee333-orange?logo=instagram&logoColor=white"></a>
 </p>
 
 Hey there! I'm Olivia, an undergraduate computer science student at the University of Surrey.

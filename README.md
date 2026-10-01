@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/owleee333"><img src="https://img.shields.io/badge/instagram-%40owleee333-orange?logo=instagram&logoColor=white"></a>
 </p>
 
-Hey there! I'm Olivia, an undergraduate computer science student at the University of Surrey.
+Hey there! I'm Olivia, an second-year computer science student at the University of Surrey. I'm an avid gamer and I'm interested in linguistics, chemistry and engineering. I'm currently working on a game development project.
 ## About me:
 💬 Native English, Intermediate Spanish<br/>
 🎮 Modded Minecraft, ULTRAKILL, Hollow Knight, Helldivers II, Overwatch, Cyberpunk 2077

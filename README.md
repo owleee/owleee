@@ -12,5 +12,5 @@
 
 Hey there! I'm Olivia, an undergraduate computer science student at the University of Surrey.
 ## About me:
-💬 English, Spanish<br/>
-🎮 Modded Minecraft, ULTRAKILL, Hollow Knight, Helldivers II, Overwatch
+💬 Native English, Intermediate Spanish<br/>
+🎮 Modded Minecraft, ULTRAKILL, Hollow Knight, Helldivers II, Overwatch, Cyberpunk 2077
